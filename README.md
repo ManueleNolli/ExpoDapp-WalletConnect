@@ -4,7 +4,6 @@ This repository is a demo project that demonstrates how to use WalletConnect wit
 
 ## Demo
 
-![Demo](demo.gif)
 <img src="demo.gif" width="362.67" height="750">
 ## Getting Started
 
