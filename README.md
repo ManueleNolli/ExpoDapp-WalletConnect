@@ -5,6 +5,7 @@ This repository is a demo project that demonstrates how to use WalletConnect wit
 ## Demo
 
 <img src="demo.gif" width="362.67" height="750">
+
 ## Getting Started
 
 To get started, you will need to have the Expo CLI installed on your system. You can install it by running the following command:
