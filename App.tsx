@@ -15,7 +15,6 @@ export default function App() {
   return (
     <View style={styles.container}>
       <WalletConnectProvider
-        bridge="https://bridge.walletconnect.org"
         redirectUrl={
           Platform.OS === "web" ? window.location.origin : "expodappwalletconnect://" // TODO: Change this to your app's URL
         }
